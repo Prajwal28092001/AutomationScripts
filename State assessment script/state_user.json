@@ -1,0 +1,212 @@
+[
+  {
+    "state": "AASA",
+    "teacher": { "username": "BackupAASA", "password": "Lumos@123" },
+    "student": { "username": "BackupAASAstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "ACAP",
+    "teacher": { "username": "BackupACAP", "password": "Lumos@123" },
+    "student": { "username": "BackupACAPstudentt", "password": "Lumos@123" }
+  },
+  {
+    "state": "GMAS",
+    "teacher": { "username": "BackupGMAS", "password": "Lumos@123" },
+    "student": { "username": "BackupGMASstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "ATLAS",
+    "teacher": { "username": "BackupATLAS", "password": "Lumos@123" },
+    "student": { "username": "BackupATLASstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "MCAP",
+    "teacher": { "username": "BackupMCAP", "password": "Lumos@123" },
+    "student": { "username": "BackupMCAPstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "CMAS",
+    "teacher": { "username": "BackupCMAS", "password": "Lumos@123" },
+    "student": { "username": "BackupCMASstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "FAST",
+    "teacher": { "username": "amanteacher", "password": "Lumos@123" },
+    "student": { "username": "KKhanstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "IAR",
+    "teacher": { "username": "BackupIAR", "password": "Lumos@123" },
+    "student": { "username": "BackupIARstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "ILEARN",
+    "teacher": { "username": "BackupILEARN", "password": "Lumos@123" },
+    "student": { "username": "BackupILEARNstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "LEAP",
+    "teacher": { "username": "BackupLEAP", "password": "Lumos@123" },
+    "student": { "username": "backupleapstudent", "password": "a" }
+  },
+  {
+    "state": "MAAP",
+    "teacher": { "username": "backupmaapteacher", "password": "Lumos@123" },
+    "student": { "username": "BackupMAAPStudent", "password": "a" }
+  },
+  {
+    "state": "MAP",
+    "teacher": { "username": "BackupMAP", "password": "Lumos@123" },
+    "student": { "username": "BackupMAPstudent", "password": "a" }
+  },
+  {
+    "state": "MCAS",
+    "teacher": { "username": "BackupMCAS", "password": "Lumos@123" },
+    "student": { "username": "BackupMCASStudent", "password": "a" }
+  },
+  {
+    "state": "NYST",
+    "teacher": { "username": "Acharya@backupteacher.com", "password": "Lumos@123" },
+    "student": { "username": "KaranStudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "NMMSSA",
+    "teacher": { "username": "backupnmssa", "password": "Lumos@123" },
+    "student": { "username": "backupstudentnmssa", "password": "a" }
+  },
+  {
+    "state": "OST",
+    "teacher": { "username": "BackupOST", "password": "Lumos@123" },
+    "student": { "username": "BackupOSTStudent", "password": "a" }
+  },
+  {
+    "state": "STAAR",
+    "teacher": { "username": "BackupStaar", "password": "Lumos@123" },
+    "student": { "username": "BackupStaarStudent", "password": "a" }
+  },
+  {
+    "state": "TCAP",
+    "teacher": { "username": "Tcapteacher", "password": "Lumos@123" },
+    "student": { "username": "Tcapstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "KAP",
+    "teacher": { "username": "teachercap", "password": "Lumos@123" },
+    "student": { "username": "kapstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "KSA",
+    "teacher": { "username": "ksateacher", "password": "Lumos@123" },
+    "student": { "username": "ksastudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "MSTEP",
+    "teacher": { "username": "mstepteacher", "password": "Lumos@123" },
+    "student": { "username": "mstepstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "MAST",
+    "teacher": { "username": "mastteacher", "password": "Lumos@123" },
+    "student": { "username": "maststudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "OSTP",
+    "teacher": { "username": "ostpteacher", "password": "Lumos@123" },
+    "student": { "username": "ostpstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "OSAS",
+    "teacher": { "username": "osasteacher", "password": "Lumos@123" },
+    "student": { "username": "osasstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "RICAS",
+    "teacher": { "username": "ricasteacher", "password": "Lumos@123" },
+    "student": { "username": "ricasstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "WFE",
+    "teacher": { "username": "BackupWFW", "password": "Lumos@123" },
+    "student": { "username": "BackupWFWstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "NHSAS",
+    "teacher": { "username": "BackupNHSAS", "password": "Lumos@123" },
+    "student": { "username": "BackupNHSASstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "ISAT",
+    "teacher": { "username": "BackupISAT", "password": "Lumos@123" },
+    "student": { "username": "BackupISATStudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "VTACP",
+    "teacher": { "username": "BackupVTACP", "password": "Lumos@123" },
+    "student": { "username": "BackupVTACPstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "MECAS",
+    "teacher": { "username": "backupMECAS", "password": "Lumos@123" },
+    "student": { "username": "backupMECASStudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "ISASP",
+    "teacher": { "username": "BackupISASP", "password": "Lumos@123" },
+    "student": { "username": "BackupISASPstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "AKSTAR",
+    "teacher": { "username": "BackupAKSTAR", "password": "Lumos@123" },
+    "student": { "username": "BackupAKSTARStudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "TOPP",
+    "teacher": { "username": "backupTOPP", "password": "Lumos@123" },
+    "student": { "username": "backupTOPPStudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "NDSA",
+    "teacher": { "username": "BackupNDSA", "password": "Lumos@123" },
+    "student": { "username": "BackupNDSAStudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "WVGSA",
+    "teacher": { "username": "BackupWVGSA", "password": "Lumos@123" },
+    "student": { "username": "backupWVGSAstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "MCA",
+    "teacher": { "username": "BackupMCA", "password": "Lumos@123" },
+    "student": { "username": "backupMCAstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "NSCAS",
+    "teacher": { "username": "BackupNSCAS", "password": "Lumos@123" },
+    "student": { "username": "backupNSCASstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "EOG",
+    "teacher": { "username": "BackupEOG", "password": "Lumos@123" },
+    "student": { "username": "backupEOGstudent", "password": "Lumos@123" }
+  },
+  {
+    "state": "PSSA",
+    "teacher": { "username": "BackupPSSA", "password": "Lumos@123" },
+    "student": { "username": "backupstudentpssa", "password": "Lumos@123" }
+  },
+  {
+    "state": "SCREADY",
+    "teacher": { "username": "BackupSCREADY", "password": "Lumos@123" },
+    "student": { "username": "backupstudentscready", "password": "Lumos@123" }
+  },
+  {
+    "state": "RISE",
+    "teacher": { "username": "BackupRISE", "password": "Lumos@123" },
+    "student": { "username": "backupstudentrise", "password": "Lumos@123" }
+  },
+  {
+    "state": "SOL",
+    "teacher": { "username": "BackupSOL", "password": "Lumos@123" },
+    "student": { "username": "backupstudentsol", "password": "Lumos@123" }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "state_name": "ACAP"
+  },
+  {
+    "state_name": "ATLAS"
+  },
+  {
+    "state_name": "AASA"
+  },
+  {
+    "state_name": "CMAS"
+  },
+  {
+    "state_name": "EOG"
+  },
+  {
+    "state_name": "FAST"
+  },
+  {
+    "state_name": "GMAS"
+  },
+  {
+    "state_name": "ILEARN"
+  },
+  {
+    "state_name": "IAR"
+  },
+  {
+    "state_name": "KAP"
+  },
+  {
+    "state_name": "KSA"
+  },
+  {
+    "state_name": "LEAP"
+  },
+  {
+    "state_name": "MAAP"
+  },
+  {
+    "state_name": "MCAS"
+  },
+  {
+    "state_name": "MOMAP"
+  },
+  {
+    "state_name": "MCAP"
+  },
+  {
+    "state_name": "NJSLA"
+  },
+  {
+    "state_name": "NM-MSSA"
+  },
+  {
+    "state_name": "OST"
+  },
+  {
+    "state_name": "STAAR"
+  },
+  {
+    "state_name": "TCAP"
+  }
+]

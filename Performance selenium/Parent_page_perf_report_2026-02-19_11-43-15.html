@@ -1,0 +1,210 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Lumos Performance Report</title>
+        <style>
+            body { font-family: Arial, sans-serif; padding: 20px; }
+            table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+            th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+            th { background-color: #f4f4f4; }
+            h2 { color: #2c3e50; }
+        </style>
+    </head>
+    <body>
+        <h1>Parent Portal Performance Report</h1>
+        <p><strong>Test Run:</strong> 2026-02-19_11-43-15</p>
+        
+        <h2>Login Page</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llp/login.php</p>
+        <p><strong>Page Load Time:</strong> 4.65 sec</p>
+        <p><strong>FCP:</strong> N/A ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Billing Page - Subscriptions View</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/schoolup-billing.html?view=mysubscriptions&user=free</p>
+        <p><strong>Page Load Time:</strong> 16.99 sec</p>
+        <p><strong>FCP:</strong> 1716.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td>https://i.clarity.ms/collect</td><td>1097</td></tr><tr><td>https://i.clarity.ms/collect</td><td>802</td></tr><tr><td>https://www.lumoslearning.com/llp/stripe_payment_integration/subscribed_programs.php?program=ctleprogram&usertype=Parent</td><td>941</td></tr><tr><td>https://i.clarity.ms/collect</td><td>580</td></tr><tr><td>https://i.clarity.ms/collect</td><td>560</td></tr>
+        </table>
+    
+        <h2>Parent Dashboard</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup-parent.html</p>
+        <p><strong>Page Load Time:</strong> 2.06 sec</p>
+        <p><strong>FCP:</strong> 1840.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Parent Progress Summary</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/schoolup-parent-progress-summary.html</p>
+        <p><strong>Page Load Time:</strong> 1.60 sec</p>
+        <p><strong>FCP:</strong> 1448.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Parent Lesson Insights</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/schoolup-parent-lesson-insights.html</p>
+        <p><strong>Page Load Time:</strong> 2.22 sec</p>
+        <p><strong>FCP:</strong> 1544.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td>https://www.lumoslearning.com/llp/progress_summary_tp_json.php?userid=55623221&studentID=55623239&courseID=15830</td><td>1167</td></tr>
+        </table>
+    
+        <h2>Parent Student Insights</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/schoolup-parent-student-insights.html</p>
+        <p><strong>Page Load Time:</strong> 1.77 sec</p>
+        <p><strong>FCP:</strong> 1660.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Grading Questions</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/grading-questions.html</p>
+        <p><strong>Page Load Time:</strong> 2.35 sec</p>
+        <p><strong>FCP:</strong> 1348.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td>https://i.clarity.ms/collect</td><td>526</td></tr>
+        </table>
+    
+        <h2>Passage Reading</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/passage-reading.html</p>
+        <p><strong>Page Load Time:</strong> 5.56 sec</p>
+        <p><strong>FCP:</strong> 4300.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Vocabulary Practice</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/vocabulary_practice.html</p>
+        <p><strong>Page Load Time:</strong> 1.94 sec</p>
+        <p><strong>FCP:</strong> 1544.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Ed Blogs</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/ed-blogs.html</p>
+        <p><strong>Page Load Time:</strong> 2.59 sec</p>
+        <p><strong>FCP:</strong> 1572.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Mindmaps</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/my-mindmaps.html</p>
+        <p><strong>Page Load Time:</strong> 13.82 sec</p>
+        <p><strong>FCP:</strong> 1944.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td>https://www.lumoslearning.com/llwp/schoolup/my-mindmaps.html</td><td>2229</td></tr><tr><td>https://www.lumoslearning.com/llp/mindmap_flashcube_operation.php</td><td>754</td></tr><tr><td>https://i.clarity.ms/collect</td><td>3837</td></tr><tr><td>https://i.clarity.ms/collect</td><td>1603</td></tr><tr><td>https://www.lumoslearning.com/llp/mindmap_flashcube_operation.php</td><td>1547</td></tr><tr><td>https://www.lumoslearning.com/llp/mindmap_flashcube_operation.php</td><td>1120</td></tr><tr><td>https://www.lumoslearning.com/llp/create_get_message_json.php</td><td>814</td></tr>
+        </table>
+    
+        <h2>New Registration Page</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/new-schoolup-registration.html</p>
+        <p><strong>Page Load Time:</strong> 3.63 sec</p>
+        <p><strong>FCP:</strong> 1460.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Student Progress</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/student-progress.html</p>
+        <p><strong>Page Load Time:</strong> 2.03 sec</p>
+        <p><strong>FCP:</strong> 1580.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Student Study Plan</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/student-studyplan.html</p>
+        <p><strong>Page Load Time:</strong> 2.34 sec</p>
+        <p><strong>FCP:</strong> 1476.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td>https://i.clarity.ms/collect</td><td>600</td></tr>
+        </table>
+    
+        <h2>Parent FAQ</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/stepup-parent-faq.html</p>
+        <p><strong>Page Load Time:</strong> 3.37 sec</p>
+        <p><strong>FCP:</strong> 2040.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Messages</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/lumos-messages.html</p>
+        <p><strong>Page Load Time:</strong> 2.19 sec</p>
+        <p><strong>FCP:</strong> 1500.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Parent My Students</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/schoolup-parent-mystudents.html</p>
+        <p><strong>Page Load Time:</strong> 2.15 sec</p>
+        <p><strong>FCP:</strong> 1288.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Billing Page</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/schoolup-billing.html</p>
+        <p><strong>Page Load Time:</strong> 2.02 sec</p>
+        <p><strong>FCP:</strong> 1468.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td colspan='2'>None</td></tr>
+        </table>
+    
+        <h2>Worksheets Page</h2>
+        <p><strong>URL:</strong> https://www.lumoslearning.com/llwp/schoolup/schoolup-worksheets.html</p>
+        <p><strong>Page Load Time:</strong> 4.08 sec</p>
+        <p><strong>FCP:</strong> 2460.00 ms</p>
+        <p><strong>TTI:</strong> N/A ms</p>
+        <table>
+            <tr><th>Slow XHR Request</th><th>Duration (ms)</th></tr>
+            <tr><td>https://i.clarity.ms/collect</td><td>816</td></tr><tr><td>https://i.clarity.ms/collect</td><td>599</td></tr>
+        </table>
+    
+    </body>
+    </html>
+    
